@@ -18,7 +18,8 @@ permalink: /
 
 -　１.【梅田】ROUTE271 梅田本店（ルート271）
 
--　２.【谷町六丁目】TANIROKU BAKERY PANENA（タニロクベーカリー パネーナ）
+-　２.【谷町六丁目】TANIROKU BAKERY PANENA
+-　（タニロクベーカリー パネーナ）
 　
 -　３.【天満橋】コバトパン工場
 
