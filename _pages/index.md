@@ -21,6 +21,7 @@ permalink: /
 -　２.【谷町六丁目】TANIROKU BAKERY PANENA
 （タニロクベーカリー パネーナ）
 　
+
 -　３.【天満橋】コバトパン工場
 
 -　４.【肥後橋】Stand out Baker（スタンドアウトベーカー）
